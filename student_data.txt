@@ -1,8 +1,16 @@
 Name: Bob
-Address: 323 71st Strett
+Address: 1542 6th Street, CA, 90210
 GPA: 4.0
 
-Name: Michael Acevedo
-Address: 123 6th Street
+Name: John
+Address: 1234 8th Strett, CA, 90053
+GPA: 3.5
+
+Name: Michael
+Address: 2345 18th Street, CA, 90001
 GPA: 3.8
+
+Name: Tina
+Address: 4566 43rd Street, CA, 92301
+GPA: 3.1
 
