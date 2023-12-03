@@ -1,0 +1,8 @@
+Name: Bob
+Address: 323 71st Strett
+GPA: 4.0
+
+Name: Michael Acevedo
+Address: 123 6th Street
+GPA: 3.8
+
